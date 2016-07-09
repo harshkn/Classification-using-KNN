@@ -8,6 +8,8 @@ Y_train = data_train(:,1);
 X_test = data_test(:,2:5);
 Y_test = data_test(:,1);
 
+scatter_plot()
+
 for n = 1:7
 
 mdl = fitcknn(X_train,Y_train,'NumNeighbors',n);
