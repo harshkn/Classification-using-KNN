@@ -1,6 +1,6 @@
 {
   "name": "Classification-using-knn",
   "tagline": "Matlab",
-  "body": "# Classification-using-KNN with Matlab.\r\n\r\nApplying KNN on IRIS dataset. \r\n\r\n\r\nSample output - \r\nAccuracy is 0.866667 percent for 1 neighbours  \r\nAccuracy is 0.888889 percent for 2 neighbours  \r\nAccuracy is 0.888889 percent for 3 neighbours  \r\nAccuracy is 0.911111 percent for 4 neighbours  \r\nAccuracy is 0.911111 percent for 5 neighbours  \r\nAccuracy is 0.911111 percent for 6 neighbours  \r\nAccuracy is 0.933333 percent for 7 neighbours  \r\n\r\n![alt text](https://github.com/harshkn/Classification-using-KNN/blob/master/data-train.jpg \"Training data set\")\r\n\r\n\r\n\r\n",
+  "body": "# Classification-using-KNN with Matlab.\r\n\r\nApplying KNN on IRIS dataset. \r\n\r\n\r\nSample output - \r\nAccuracy is 0.866667 percent for 1 neighbours  \r\nAccuracy is 0.888889 percent for 2 neighbours  \r\nAccuracy is 0.888889 percent for 3 neighbours  \r\nAccuracy is 0.911111 percent for 4 neighbours  \r\nAccuracy is 0.911111 percent for 5 neighbours  \r\nAccuracy is 0.911111 percent for 6 neighbours  \r\nAccuracy is 0.933333 percent for 7 neighbours  \r\n\r\n<img src=\"https://raw.githubusercontent.com/harshkn/Classification-using-KNN/master/data-train.jpg\" alt=\"https://raw.githubusercontent.com/harshkn/Classification-using-KNN/master/data-train.jpg\">\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
