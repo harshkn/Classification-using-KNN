@@ -13,7 +13,7 @@ Accuracy is 0.911111 percent for 5 neighbours
 Accuracy is 0.911111 percent for 6 neighbours  
 Accuracy is 0.933333 percent for 7 neighbours  
 
-![alt text](https://github.com/harshkn/Classification-using-KNN/blob/master/data-train.jpg "Training data set")
+![alt text](https://raw.githubusercontent.com/harshkn/Classification-using-KNN/master/data-train.jpg "Training data set")
 
 
 
